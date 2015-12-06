@@ -1,0 +1,5 @@
+ - [ ] **Anindio Daneswara**
+ - [ ] Jakarta
+ - [ ] Sushi
+ - [ ] Coding
+ - [ ] Favorite Color
