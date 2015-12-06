@@ -2,3 +2,4 @@
  - [ ] Jakarta
  - [ ] Sushi
  - [ ] Coding
+ - [ ] Favorite Color
